@@ -309,8 +309,8 @@ header {
 .sponsors-images .image {
     background: whitesmoke;
     padding: 10px;
-    width: 166.76px;
-    height: 50px;
+    /* width: 166.76px;
+    height: 50px; */
     margin-bottom: 130px;
 }
 .sponsor-images img{
